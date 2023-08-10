@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "292343292887",
+    "project_id": "reservasi-resto",
+    "storage_bucket": "reservasi-resto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292343292887:android:0588b90bc128862c45e192",
+        "android_client_info": {
+          "package_name": "com.example.chatg2g"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292343292887-09v6k7h9i9a9sjrj3lmrdo4dvgjee4rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCahQ0TqNODsHnKhhyu0g_q4Cy8Ia9rqig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292343292887-09v6k7h9i9a9sjrj3lmrdo4dvgjee4rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292343292887:android:ae7de30b4b9f6dd345e192",
+        "android_client_info": {
+          "package_name": "com.example.tugasakhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292343292887-09v6k7h9i9a9sjrj3lmrdo4dvgjee4rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCahQ0TqNODsHnKhhyu0g_q4Cy8Ia9rqig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292343292887-09v6k7h9i9a9sjrj3lmrdo4dvgjee4rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
